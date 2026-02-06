@@ -102,7 +102,7 @@ This step eliminated compounds with obvious pharmacokinetic red flags.
 ### Binding Free Energy Calculation
 
 [
-\Delta G_{bind} = G_{complex} - (G_{protein} + G_{ligand})
+DeltaG(bind) = G(complex) - (G(protein) + G(ligand))
 ]
 
 ---
