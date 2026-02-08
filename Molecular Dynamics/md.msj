@@ -1,0 +1,7 @@
+simulate {
+  timestep = 0.002
+  temperature = 300
+  pressure = 1.01325
+  ensemble = NPT
+  cutoff = 9.0
+}
