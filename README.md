@@ -137,9 +137,7 @@ Custom Python scripts are provided for data parsing and visualization.
 
 Binding free energy was calculated using:
 
-\[
-\Delta G_{bind} = G_{complex} - (G_{protein} + G_{ligand})
-\]
+[DeltaG{bind} = G{complex} - (G{protein} + G{ligand})]
 
 ### Key Results (Linoleic Acid)
 
