@@ -182,23 +182,23 @@ These limitations are explicitly acknowledged to avoid overinterpretation.
 ├── GC-MS/
 │ └── compound_list.csv
 ├── Docking/
-│ ├── Docked_Complex_Structures/
-│ ├── Individual_Structures/
-│ └── Docking_Results.xlsx
+│ ├── Structures for Docking/
+│ └── Pumpkin Compounds - 3pp0 Docked results.xlsx
 ├── ADMET/
-│ ├── SwissADME/
-│ ├── ADMETlab/
+│ ├── Toxicity Assessment - Protux Results/
+│ ├── ADMET2.0 Results/
 │ └── admet_results.xlsx
 ├── Molecular_Dynamics/
 │ ├── MD_setup.md
 │ ├── md.msj
-│ ├── trajectories/
+│ ├── MD Output Files/
+│ ├── protein-ligand-out_pl_1
 │ ├── Analysis/
 │ │ ├── md_analysis.py
 │ │ ├── mmgbsa_analysis.py
-│ │ └── plots/
+│ │ └── Images/
 │ └── protein-ligand-mmgbsa-out.csv
-├── LigPlot/
+├── LigPlot outputs/
 └── README.md
 
 ```
